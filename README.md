@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TanishqDutt
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning in 9th Class
+- Hi, I’m @TanishqDutt
+- I’m currently a 1st Year student studying in IIIT Kalyani
+- This is my personal account
 
 <!---
 TanishqDutt/TanishqDutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
